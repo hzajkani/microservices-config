@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related production APIs from config server"
+  message: "Welcome to Bank accounts related prod APIs from config server"
   contactDetails:
     name: "Mike N - Product Owner"
     email: "{cipher}d9336d68f42b55256d2b7d66bf0c9c4443f75e91a16a91919836dc22508d9b33a47a46a99db883ba071ea58f441ee06e"
